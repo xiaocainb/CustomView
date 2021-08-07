@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_custombubblesurfaceview"
+        android:icon="@drawable/ic_waves_24"
+        android:title="水波" />
+    <item
+        android:id="@+id/navigation_customdrawview"
+        android:icon="@drawable/ic_sports_kabaddi_24"
+        android:title="画圆sin" />
+    <item
+        android:id="@+id/navigation_customedittextview"
+        android:icon="@drawable/ic_clear_24"
+        android:title="文本框" />
+    <item
+        android:id="@+id/navigation_customfindmeview"
+        android:icon="@drawable/ic_faces_24"
+        android:title="找笑脸" />
+
+</menu>
